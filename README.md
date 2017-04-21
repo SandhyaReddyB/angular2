@@ -1,5 +1,4 @@
 # angular2
-angular 2 applications
 
 This is a simple Angular 2 application which uses fundamanentals of Angular 2 such as 
 - Components 
